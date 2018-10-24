@@ -16,3 +16,8 @@ git remote add origin git@github.com:bossug/tasks.git
 
 #Записать
 git push -u origin master
+
+
+#Изменение
+git commit -m "text"
+git push origin master
