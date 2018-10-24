@@ -19,6 +19,6 @@
 
 
 <h2>#Изменение</h2>
-<p>git commit -m "text"</p>
 <p>git add README.md</p>
+<p>git commit -m "text"</p>
 <p>git push origin master</p>
