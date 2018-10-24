@@ -1,23 +1,24 @@
 # tasks
-#создание файла с комментом
+<h2>#создание файла с комментом</h2>
 <p>echo "# tasks" >> README.md</p>
 
-#Создание списка
-git init
+<h2>#Создание списка</h2>
+<p>git init</p>
 
-#Добавить в индекс
-git add README.md
+<h2>#Добавить в индекс</h2>
+<p>git add README.md</p>
 
-#Добавить коммит
-git commit -m "Справка"
+<h2>#Добавить коммит</h2>
+<p>git commit -m "Справка"v
 
-#Подключиться к репозиту
-git remote add origin git@github.com:bossug/tasks.git
+<h2>#Подключиться к репозиту</h2>
+<p>git remote add origin git@github.com:bossug/tasks.git</p>
 
-#Записать
-git push -u origin master
+<h2>#Записать</h2>
+<p>git push -u origin master</p>
 
 
-#Изменение
-git commit -m "text"
-git push origin master
+<h2>#Изменение</h2>
+<p>git commit -m "text"</p>
+<p>git add README.md</p>
+<p>git push origin master</p>
