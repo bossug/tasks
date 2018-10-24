@@ -1,6 +1,6 @@
 # tasks
-#создание файла с комментом\n
-echo "# tasks" >> README.md
+#создание файла с комментом
+<p>echo "# tasks" >> README.md</p>
 
 #Создание списка
 git init
